@@ -3,7 +3,6 @@ body
 		 background-image: url("img/tlo.jpg");
 		 background-size: cover;
 		 background-attachment: fixed;
-		 /* background-color="black"; */
 		 margin:0px !important;
 		 font-family: 'Kalam', cursive;
 		font-size: 20px;
@@ -26,7 +25,7 @@ body
 .nav
 {
 	width:100%;
-	padding: 10px 0;
+	padding: 8px 0;
 	background-color: #e62e00;
 	text-align: center;
 	border-top: 1px solid #751b1b;
