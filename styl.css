@@ -9,12 +9,6 @@ body
 		font-family: 'Orbitron', sans-serif;
 }
 
-.header
-{
-	width:100%;
-	padding:40px 0;
-}
-
 .table
 {
 	width:1000px;
@@ -50,5 +44,3 @@ body
 	font-size:20px;
 	padding: 20px;
 }
-
-
